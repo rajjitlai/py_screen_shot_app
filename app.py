@@ -13,7 +13,7 @@ def takeSS():  # function definition
           timeFormat = int(time.time())  # filename with the time
           imageName = f"IMG_{timeFormat}.png"  #filename with png extension
           image.save(imageName)  # saving the image
-          image.show()  # to preview the captured  image with the default image viewer
+          image.show()  # to preview the captured  image with the default image viewer in your system
           
 if __name__ == "__main__":  # main part of the program
           print("Taking ScreenShot in 3 seconds...")  # 3 seconds timer notice
