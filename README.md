@@ -20,6 +20,8 @@ A ScreenShot Application made using a few lines of Python Code
           DATE CREATED: 14-02-2023
           PURPOSE: A SMALL SCREENSHOT APPLICATION TO TAKE SS AT ANYTIME
           
+## LICENSE
+ [MIT LICENSE](LICENSE)
 
 🤗 Thank you so much for visiting!
 ❤️ Show some love by starring the repositories!
